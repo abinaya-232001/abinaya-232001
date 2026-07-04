@@ -1,28 +1,35 @@
 <h1 align="center">Hi 👋 I'm Abinaya Rajasekara</h1>
-<h3 align="center">AI/ML Engineer & Full-Stack Developer | Sri Lanka 🇱🇰</h3>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | Final-Year IT Undergraduate 🇱🇰</h3>
 
 <p align="center">
-  Final-year IT undergraduate building real-world AI solutions —
-  from multilingual speech recognition to RAG-based intelligent systems.
+Final-year Information Technology student focused on building real-world AI systems, full-stack applications, and machine learning pipelines.
+From multilingual speech processing to retrieval-augmented AI systems, I enjoy turning ideas into working products.
 </p>
 
 ---
 
-### 🔥 What I'm Building Right Now
-- 🧠 **Smart Document Q&A** — RAG system to chat with PDFs using LangChain + FAISS
-- 🎥 **AI YouTube Analyzer** — Transcription + sentiment + scene detection pipeline
-- 🗺️ **Tourism Crowd Predictor** — ML system for 500+ Sri Lankan tourist sites
+### 🔥 What I'm currently working on
+
+- 🧠 **Smart Document Q&A System (RAG)**
+  AI system to chat with PDF documents using embeddings + semantic search
+
+- 🎥 **AI Video Intelligence Pipeline**
+  Speech-to-text + sentiment analysis + content understanding workflow
+
+- 🗺️ **Tourism Demand Prediction System**
+  ML model analyzing patterns across 500+ Sri Lankan tourist locations
 
 ---
 
 ### 🛠️ Tech Stack
 
-**AI/ML & NLP**
+**AI / ML / NLP**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Full Stack**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -34,21 +41,54 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎙️ [Medical Transcription Pipeline](#) | Multilingual speech-to-text for doctor-patient conversations | Whisper, spaCy, FastAPI |
-| 📄 [Smart Document Q&A](#) | Chat with your PDFs using RAG | LangChain, FAISS, Streamlit |
-| ✈️ [TrekPort AI Travel Platform](#) | Full-stack travel app with AI recommendations | MERN, OpenAI API |
-| 📊 [Internship Tracker Dashboard](#) | NLP-powered resume-JD match analyzer | Streamlit, TF-IDF, spaCy |
+#### 🎙️ Medical Transcription Pipeline
+Multilingual speech-to-text system designed to process doctor–patient conversations and extract structured medical insights.
+
+**Tech Stack:** Whisper • spaCy • FastAPI  
+**Focus:** NLP pipeline design, text cleaning, entity extraction, audio-to-text processing
+
+📊 Outcome:
+- Built end-to-end transcription + processing pipeline
+- Handles noisy multilingual input (Sinhala/Tamil/English mix)
+- Extracts structured medical entities from unstructured speech
 
 ---
 
-### 📊 GitHub Stats
+#### 📄 Smart Document Q&A (RAG System)
+Retrieval-Augmented Generation system that allows users to query PDF documents using natural language.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinaya-232001&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-232001&layout=compact&theme=tokyonight" />
-</p>
+**Tech Stack:** LangChain • FAISS • OpenAI API • Streamlit  
+**Focus:** Embeddings, vector search, semantic retrieval, LLM integration
+
+📊 Outcome:
+- Converts documents into searchable knowledge base
+- Implements embedding-based semantic search
+- Enables context-aware question answering over PDFs
+
+---
+
+#### ✈️ AI Travel Recommendation System
+Full-stack application that generates personalized travel recommendations using AI.
+
+**Tech Stack:** MERN Stack • OpenAI API  
+**Focus:** Full-stack architecture, API integration, recommendation logic
+
+---
+
+#### 📊 Internship Tracker Dashboard
+NLP-based system for matching resumes with job descriptions and ranking candidates.
+
+**Tech Stack:** Python • TF-IDF • spaCy • Streamlit  
+**Focus:** Text similarity, ranking algorithms, data visualization
+
+---
+
+### 🎯 Focus Areas
+
+- Building AI-powered applications
+- LLM integrations (RAG, agents, APIs)
+- Full-stack AI systems
+- Machine learning pipelines with real-world data
 
 ---
 
