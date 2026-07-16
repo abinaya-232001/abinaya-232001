@@ -89,6 +89,7 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
 
 `Python` `TF-IDF` `spaCy` `Streamlit`
 - Text similarity & ranking algorithms
+
 - Data visualization of match scores
 
 </td>
@@ -114,9 +115,6 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-232001&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abinaya-232001&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
