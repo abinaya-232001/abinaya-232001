@@ -115,6 +115,10 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-232001&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abinaya-232001&label=Profile%20Views&color=2575fc&style=for-the-badge" />
+</p>
+
 
 ---
 
