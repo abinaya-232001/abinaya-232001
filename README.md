@@ -226,12 +226,12 @@ Full MERN stack application for bookings, reservations, and staff management.
 ## 📈 GitHub Snapshot
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abinaya-232001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8a2be2&icon_color=2575fc" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-232001&layout=compact&theme=tokyonight&hide_border=true&title_color=8a2be2" height="165"/>
+<img src="https://grs.giize.com/api?username=abinaya-232001&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://grs.giize.com/api/top-langs/?username=abinaya-232001&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-232001&theme=tokyonight&hide_border=true&ring=8a2be2&fire=2575fc" />
+<img src="https://streak-stats.demolab.com/?user=abinaya-232001&theme=tokyonight&hide_border=true&ring=8a2be2&fire=2575fc" />
 </div>
 
 ---
