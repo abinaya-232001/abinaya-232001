@@ -1,126 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋%20I'm%20Abinaya%20Rajasekara&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Full-Stack%20Developer%20|%20Final-Year%20IT%20Undergraduate%20🇱🇰&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:8a2be2,100:2575fc&height=220&section=header&text=Abinaya%20Rajasekara&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20Intern%20%C2%B7%20Building%20Production-Grade%20AI%20Systems&descAlignY=55&descSize=17" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+real-world+AI+systems;RAG+%2B+LLM+integrations;Full-stack+AI+applications;Machine+learning+pipelines+on+real+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+Intern+%40+HABB;Building+RAG+Systems%2C+ML+Pipelines+%26+NLP+Tools;Whisper+%C2%B7+LangChain+%C2%B7+FastAPI+%C2%B7+PyTorch+%C2%B7+MERN;SQA+Certified+%7C+Leveling+Up+Into+MLOps+%26+DevOps" />
 </a>
 
-<p align="center">
-Final-year Information Technology student focused on building real-world AI systems, full-stack applications, and machine learning pipelines.<br/>
-From multilingual speech processing to retrieval-augmented AI systems, I enjoy turning ideas into working products.
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Colombo,_Sri_Lanka-2575fc?style=for-the-badge&labelColor=6a11cb" />
+<img src="https://img.shields.io/badge/🎓_SLIIT,_Final_Year-2575fc?style=for-the-badge&labelColor=6a11cb" />
+<img src="https://img.shields.io/badge/✅_SQA_Certified-2575fc?style=for-the-badge&labelColor=6a11cb" />
+<img src="https://img.shields.io/badge/💼_Open_to_Opportunities-2575fc?style=for-the-badge&labelColor=6a11cb" />
 
 </div>
 
----
+<br/>
 
-### 🔥 Currently Building
+## 👋 About Me
 
-- 🧠 **Smart Document Q&A System (RAG)** — chat with PDF documents using embeddings + semantic search
-- 🎥 **AI Video Intelligence Pipeline** — speech-to-text + sentiment analysis + content understanding workflow
-- 🗺️ **Tourism Demand Prediction System** — Random Forest model for tourist crowd prediction across Sri Lankan sites
+I'm a final-year IT undergraduate currently working as an **AI/ML Engineer Intern at HABB**, where I build ML pipelines using logistic regression, random forests, LSTMs, BERT, and GPT-2 — from data preprocessing through hyperparameter tuning to deployment-ready documentation. I also bring hands-on QA experience (SQA Certified) and full-stack MERN development, so I can take an AI idea from prototype to something that's actually tested, containerized, and shippable.
 
----
-
-### 🚧 Roadmap — What I'm Building Next
-
-- 🎬 **Highlight Reel Generator** — auto-extract emotionally peak / high-engagement moments from long-form video using sentiment + scene detection (extension of AI Video Intelligence Pipeline)
-- 🗣️ **Speaker Diarization for Medical Transcripts** — add "who said what" separation to the Medical Transcription Pipeline using pyannote.audio
-- 🔍 **RAG Chatbot with Source Citations** — extend Smart Document Q&A with inline citations and multi-document reasoning
-- ⚙️ **CI/CD Pipeline for an ML Model (MLOps)** — GitHub Actions workflow to test, containerize, and auto-deploy one of my existing ML projects
-
----
-
-### 🛠️ Tech Stack
-
-**AI / ML / NLP**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Full Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**DevOps / MLOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+```js
+const abinaya = {
+  role        : "AI/ML Engineer Intern @ HABB",
+  degree      : "BSc (Hons) IT — SLIIT, Sri Lanka",
+  certified   : "Software Quality Assurance Professional (SLIIT)",
+  focus       : ["NLP & LLMs", "RAG Systems", "ML Pipelines", "Full-Stack AI Apps"],
+  levelingUp  : ["MLOps", "Docker & Kubernetes", "CI/CD for ML"],
+  languages   : { english: "Proficient", tamil: "Proficient", sinhala: "Beginner" },
+  memberships : ["IEEE", "IEEE Computer Society", "LEO Club", "AIESEC"],
+  funFact     : "I turn research-paper ideas into working, deployable pipelines 🎥",
+};
+```
 
 ---
 
-### 📌 Featured Projects
+## 💼 Experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎙️ Medical Transcription Pipeline**
-Multilingual speech-to-text system processing doctor–patient conversations and extracting structured medical insights.
+### 🧠 AI/ML Engineer Intern
+**HABB** · Remote · *Aug 2025 – Present*
 
-`Whisper` `spaCy` `FastAPI`
-- End-to-end transcription + processing pipeline
-- Handles noisy multilingual input (Sinhala/Tamil/English mix)
-- Extracts structured medical entities from unstructured speech
+Built ML models (logistic regression, random forests, LSTMs, BERT, GPT-2) with full pipelines — preprocessing, evaluation, hyperparameter tuning, and documentation.
 
-</td>
-<td width="50%">
-
-**📄 Smart Document Q&A (RAG System)**
-Retrieval-Augmented Generation system for querying PDF documents in natural language.
-
-`LangChain` `FAISS` `OpenAI API` `Streamlit`
-- Converts documents into a searchable knowledge base
-- Embedding-based semantic search
-- Context-aware question answering over PDFs
+`Python` `PyTorch` `TensorFlow` `Hugging Face` `scikit-learn`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎥 AI Video Intelligence Pipeline**
-Downloads a YouTube video and extracts transcription, sentiment, and scene structure into one unified report.
+### 🌐 Web Developer Intern
+**CLASSIFIEDY** · Remote · *Feb 2025 – Jul 2025*
 
-`Whisper` `Transformers` `OpenCV` `yt-dlp`
-- Speech-to-text with timestamps
-- Per-segment sentiment analysis
-- HSV histogram-based scene change detection
+Customized Osclass platforms, built plugins, and delivered client projects (AirDeal, Taiwan Book Exchange) using PHP, MySQL, and WordPress.
 
-</td>
-<td width="50%">
-
-**✈️ AI Travel Recommendation System**
-Full-stack application generating personalized travel recommendations using AI.
-
-`MERN Stack` `OpenAI API`
-- Full-stack architecture & API integration
-- AI-driven recommendation logic
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📊 Resume–Job Matching Engine**
-NLP-based system for matching resumes with job descriptions and ranking candidates.
-
-`Python` `TF-IDF` `spaCy` `Streamlit`
-- Text similarity & ranking algorithms
-- Data visualization of match scores
-
-</td>
-<td width="50%">
+`PHP` `MySQL` `WordPress`
 
 </td>
 </tr>
@@ -128,34 +65,189 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
 
 ---
 
-### 🎯 Focus Areas
+## 🚀 Featured AI/ML Projects
 
-`AI-powered applications` · `LLM integrations (RAG, agents, APIs)` · `Full-stack AI systems` · `ML pipelines with real-world data` · `MLOps & CI/CD for ML`
+<details open>
+<summary><b>🎙️ Multilingual Medical Transcription Pipeline</b></summary>
+<br/>
+
+Speech-to-text system for doctor–patient conversations supporting **English, Tamil, and Sinhala**, with medical keyword detection and structured outputs.
+
+`Python` `PyTorch` `OpenAI Whisper` `FastAPI` `spaCy` `GPU Acceleration`
+
+</details>
+
+<details>
+<summary><b>📄 Smart Document Q&A System</b> — RAG-based semantic search</summary>
+<br/>
+
+Extracts embeddings from PDFs for semantic search and query-based answers with referenced sources.
+
+`LangChain` `Hugging Face Transformers` `FAISS` `PyTorch`
+
+</details>
+
+<details>
+<summary><b>🎥 AI-Powered YouTube Analyzer</b> — multimodal video intelligence</summary>
+<br/>
+
+Multimodal pipeline for video transcription, NLP sentiment/topic analysis, and computer-vision-based scene detection to generate automated insights.
+
+`OpenAI Whisper` `spaCy` `PyTorch` `OpenCV` `ffmpeg`
+
+</details>
+
+<details>
+<summary><b>🗺️ Tourism Data Analyzer</b> — Final-Year Research, Ongoing</summary>
+<br/>
+
+ML system predicting crowd levels at **500+ Sri Lankan tourist sites** using flight, weather, and hotel data — generates safety alerts and alternative destination recommendations.
+
+`scikit-learn` `pandas` `NumPy` `matplotlib` `seaborn`
+
+</details>
+
+<details>
+<summary><b>📊 Internship Tracker — AI Dashboard</b></summary>
+<br/>
+
+Streamlit app to track applications, analyze resume–JD matches with NLP, visualize interactive charts, and export CSV reports.
+
+`Streamlit` `TF-IDF` `spaCy` `pandas`
+
+</details>
+
+<details>
+<summary><b>🤖 RAG-Based Psychological Chatbot</b> — Internship Contribution</summary>
+<br/>
+
+Evaluated and tested a Retrieval-Augmented Generation chatbot: generated embeddings, validated retrieval quality, and assessed response relevance.
+
+`LangChain` `Hugging Face Transformers` `FAISS` `Streamlit`
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ DevOps & MLOps — Currently Leveling Up
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinaya-232001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-232001&layout=compact&theme=radical&hide_border=true" />
-</p>
+I come from a QA/testing background (manual + automated), so CI/CD and infrastructure reliability are a natural next step in how I think about shipping ML systems, not just building them.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-232001&theme=radical&hide_border=true" />
-</p>
+**Already comfortable with:**
+`Git` `GitHub` `Jira` `Postman` — version control, issue tracking, and API testing from real internship work
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abinaya-232001&label=Profile%20Views&color=2575fc&style=for-the-badge" />
-</p>
+**Actively building toward:**
+- ⚙️ **CI/CD Pipeline for an ML Model** — GitHub Actions workflow to test, containerize, and auto-deploy an existing ML project
+- 🐳 **Dockerizing the AI Video Intelligence Pipeline** — packaging a full ML pipeline into a reproducible container
+- ☸️ **Kubernetes fundamentals** — deploying a multi-service app with basic health checks and autoscaling
+- 📊 **Monitoring stack (Prometheus + Grafana)** — tracking latency/error rates on a deployed API
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Full-Stack Projects
 
-<p align="center">
-<a href="https://linkedin.com/in/abinaya-rajasekara-4905372a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abiraj232001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<details>
+<summary><b>✈️ TrekPort — AI Travel Platform</b></summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+Full-stack travel booking app with authentication, admin dashboard, reviews, payments, and AI-based travel recommendations.
+
+`React.js` `Node.js` `MongoDB` `Express.js` `OpenAI API` `JWT`
+
+</details>
+
+<details>
+<summary><b>💪 Pulsecore — Fitness Plan Sharing</b></summary>
+<br/>
+
+React.js + Spring Boot app with OAuth 2.0 authentication and REST APIs.
+
+`React.js` `Spring Boot` `OAuth 2.0`
+
+</details>
+
+<details>
+<summary><b>🏨 Hotel Management System</b></summary>
+<br/>
+
+Full MERN stack application for bookings, reservations, and staff management.
+
+`React.js` `Node.js` `MongoDB` `Express.js`
+
+</details>
+
+---
+
+## 🧩 Tech Stack
+
+<div align="center">
+
+**AI / ML / NLP**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface" />
+
+**Full-Stack**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,fastapi,flask,php,mysql" />
+
+**DevOps / MLOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,linux" />
+
+**QA / Testing**
+<br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma" />
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc (Hons) in Information Technology** — SLIIT *(Oct 2022 – Expected Mar 2027)*
+- **Software Quality Assurance Professional Program** — SLIIT *(Dec 2024 – May 2025)*
+  Web & mobile test automation (Java, Selenium, TestNG), API testing (Postman), performance testing (JMeter)
+
+---
+
+## 🏅 Memberships & Leadership
+
+`IEEE Member` · `IEEE Computer Society` · `LEO Club` · `AIESEC` · `Senior Prefect (2018–2020)`
+
+---
+
+## 📈 GitHub Snapshot
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abinaya-232001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8a2be2&icon_color=2575fc" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-232001&layout=compact&theme=tokyonight&hide_border=true&title_color=8a2be2" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-232001&theme=tokyonight&hide_border=true&ring=8a2be2&fire=2575fc" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abinaya-rajasekara-4905372a8"><img src="https://img.shields.io/badge/LinkedIn-2575fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6a11cb" /></a>
+<a href="mailto:abiraj232001@gmail.com"><img src="https://img.shields.io/badge/Email-2575fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6a11cb" /></a>
+<a href="https://abinaya-portfolio-view.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2575fc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6a11cb" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abinaya-232001&label=Profile+Views&color=8a2be2&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:8a2be2,100:6a11cb&height=120&section=footer" />
