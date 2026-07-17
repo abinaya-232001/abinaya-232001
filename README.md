@@ -15,11 +15,20 @@ From multilingual speech processing to retrieval-augmented AI systems, I enjoy t
 
 ---
 
-### 🔥 What I'm Currently Working On
+### 🔥 Currently Building
 
 - 🧠 **Smart Document Q&A System (RAG)** — chat with PDF documents using embeddings + semantic search
 - 🎥 **AI Video Intelligence Pipeline** — speech-to-text + sentiment analysis + content understanding workflow
 - 🗺️ **Tourism Demand Prediction System** — Random Forest model for tourist crowd prediction across Sri Lankan sites
+
+---
+
+### 🚧 Roadmap — What I'm Building Next
+
+- 🎬 **Highlight Reel Generator** — auto-extract emotionally peak / high-engagement moments from long-form video using sentiment + scene detection (extension of AI Video Intelligence Pipeline)
+- 🗣️ **Speaker Diarization for Medical Transcripts** — add "who said what" separation to the Medical Transcription Pipeline using pyannote.audio
+- 🔍 **RAG Chatbot with Source Citations** — extend Smart Document Q&A with inline citations and multi-document reasoning
+- ⚙️ **CI/CD Pipeline for an ML Model (MLOps)** — GitHub Actions workflow to test, containerize, and auto-deploy one of my existing ML projects
 
 ---
 
@@ -41,6 +50,12 @@ From multilingual speech processing to retrieval-augmented AI systems, I enjoy t
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**DevOps / MLOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -74,6 +89,17 @@ Retrieval-Augmented Generation system for querying PDF documents in natural lang
 <tr>
 <td width="50%">
 
+**🎥 AI Video Intelligence Pipeline**
+Downloads a YouTube video and extracts transcription, sentiment, and scene structure into one unified report.
+
+`Whisper` `Transformers` `OpenCV` `yt-dlp`
+- Speech-to-text with timestamps
+- Per-segment sentiment analysis
+- HSV histogram-based scene change detection
+
+</td>
+<td width="50%">
+
 **✈️ AI Travel Recommendation System**
 Full-stack application generating personalized travel recommendations using AI.
 
@@ -82,6 +108,8 @@ Full-stack application generating personalized travel recommendations using AI.
 - AI-driven recommendation logic
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **📊 Resume–Job Matching Engine**
@@ -89,8 +117,10 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
 
 `Python` `TF-IDF` `spaCy` `Streamlit`
 - Text similarity & ranking algorithms
-
 - Data visualization of match scores
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -100,7 +130,7 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
 
 ### 🎯 Focus Areas
 
-`AI-powered applications` · `LLM integrations (RAG, agents, APIs)` · `Full-stack AI systems` · `ML pipelines with real-world data`
+`AI-powered applications` · `LLM integrations (RAG, agents, APIs)` · `Full-stack AI systems` · `ML pipelines with real-world data` · `MLOps & CI/CD for ML`
 
 ---
 
@@ -118,7 +148,6 @@ NLP-based system for matching resumes with job descriptions and ranking candidat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abinaya-232001&label=Profile%20Views&color=2575fc&style=for-the-badge" />
 </p>
-
 
 ---
 
