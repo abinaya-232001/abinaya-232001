@@ -239,7 +239,7 @@ Portfolio of manual and automated testing work from the SQA Professional Program
 ## 🎓 Education & Certifications
 
 - **BSc (Hons) in Information Technology** — SLIIT *(Oct 2022 – Expected Mar 2027)*
-- **Software Quality Assurance Professional Program** — SLIIT *(Dec 2024 – May 2025)*
+- **Software Quality Assurance Professional Program** — SLIIT *(Jan 2026 – July 2026)*
   Web & mobile test automation (Java, Selenium, TestNG), API testing (Postman), performance testing (JMeter)
 
 ---
